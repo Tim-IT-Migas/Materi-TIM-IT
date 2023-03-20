@@ -1,0 +1,26 @@
+#### Modul Belajar Python Pertama Selasa 21 Maret 2022 ####
+
+1. Tipe data dan Variable
+    a. Boolean
+    b. String
+    c. Float
+    d. Integer
+
+    // Variable Lanjutan
+    d. List
+
+2. Pengecekan Kondisi
+    a. If / else / elseif ( elif )
+    b. Switch case ( match )
+
+        match variable:
+            case nilai1:
+                return "Bad request"
+            case nilai2:
+                return "Not found"
+            case _:
+                return "Something's wrong with the internet"
+
+3. Looping
+    a. While
+    b. For loop
