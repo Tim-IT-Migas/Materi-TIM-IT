@@ -15,7 +15,7 @@ Cara download semua materi
 
 ```bash
     1. Install git ( linux ) & git bash ( windows )
-    2. git clone https://github.com/Tim-IT-Migas/Materi-TIM-IT
+    2. ketik git clone https://github.com/Tim-IT-Migas/Materi-TIM-IT
     3. Selesai...
 ```
     
